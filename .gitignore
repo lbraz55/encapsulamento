@@ -1,0 +1,24 @@
+# Build (Maven)
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs e arquivos temporários
+*.log
+hs_err_pid*
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+out/
+nbproject/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
